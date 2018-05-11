@@ -30,6 +30,14 @@
 .idea/**/dynamic.xml
 .idea/**/uiDesigner.xml
 
+.idea/
+*.iws
+*.iml
+*.ipr
+
+/out/
+.idea_modules/
+
 # Gradle
 .idea/**/gradle.xml
 .idea/**/libraries
